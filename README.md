@@ -84,5 +84,10 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 ---
 
+## 📞 Contact & Connect
 
+- **LinkedIn**: [https://www.linkedin.com/in/rajesh-chowdary-nimmalapudi-22bbbb317]
+- **Email**: [nimmalapudirajesh466@gmail.com]
+
+---
 

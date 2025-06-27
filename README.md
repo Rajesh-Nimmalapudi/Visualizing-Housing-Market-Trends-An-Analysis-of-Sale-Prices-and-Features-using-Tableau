@@ -67,7 +67,7 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
   *Requirement Analysis · Project Executable Files · Documentation & Demo · Visualization for Scenario 2 & 3 · Dash Board Creation · Story Devlopment*
 
 - **Korada Tanusha Rani**  
-  * Ideation Phase· project Planning Phase · Visualization for Scenario 4 *
+  * Ideation Phase· Project Planning Phase · Visualization for Scenario 4 *
 
 - **Mythili**  
   *  Visualization for Scenario 1 · Project Executable Files *

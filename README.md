@@ -61,7 +61,7 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 ## 👥 Team Members
 
 - **Charitha svs**  
-  *Project Design · Data Collection· Data Preparation · Performance Testing*
+  * Data Collection· Data Preparation · Performance Testing ·Project Design ·*
 
 - **N Rajesh Chowdary**  
   *Requirement Analysis · Project Executable Files · Documentation & Demo · Visualization for Scenario 2 & 3 · Dash Board Creation · Story Devlopment*
